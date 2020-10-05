@@ -22,6 +22,6 @@ openwheather API
 
 - 이름과 할일을 입력했을 때 화면
 
-![doing](./essets/doing.png)
+![doing](./essets/doing.PNG)
 
 * 버튼을 누르면 삭제
