@@ -14,7 +14,7 @@ function getWeather(lat, lng) {
         const tmp = json.main.temp;
         const place = json.name;
         img.src = iconurl;  
-        weather.innerText = `${tmp}℃ @ ${place}`;
+        weather.innerHTML = `<p>${tmp}℃ @ ${place}</p>`;
         weather.appendChild(img);
     });
 }
