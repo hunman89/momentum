@@ -16,7 +16,7 @@ openwheather API
 
 - 초기 화면 (우측 상단에 기온, 위치, 날씨 아이콘)
 
-![index](./essets/index.PNG)
+![index](./essets/index.png)
 
 
 
